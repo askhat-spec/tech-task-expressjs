@@ -14,7 +14,7 @@ curl --location --request POST 'http://localhost/image-service/webp' \
 ## Решение
 В проекте используется express, \
 для конвертации изображения - sharp, \
-для загрузки изображения - multer. \
+для загрузки изображения - multer.
 
 Запуск через команду:
 > ` - npm start`
